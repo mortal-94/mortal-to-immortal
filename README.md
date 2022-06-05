@@ -1,1 +1,10 @@
-
+# ING
+- 力扣刷题
+# channel
+## 数据结构和算法
+- [labuladong](https://github.com/labuladong/fucking-algorithm)
+# owned
+- C++基础
+- python基础
+# TODO
+- 英语学习（自由阅读
