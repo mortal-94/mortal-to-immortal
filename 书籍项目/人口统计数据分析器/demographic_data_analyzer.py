@@ -39,7 +39,7 @@ def calculate_demographic_data(print_data=True):
 
     # 每周工作最少小时数的人中有多少人的工资超过 50K？
     """做法同上"""
-    rich_percentage = df.loc[df['hours-per-week'] == min_work_hours & (df.salary == '>50K')].shape[0] / \
+    rich_percentage = df.loc[df['hours-per-week'] == min_work_hours & (df['salary'] == '>50K')].shape[0] / \
                       df[df['hours-per-week'] == min_work_hours].shape[0]
     rich_percentage = round(rich_percentage * 100, 1)
 
