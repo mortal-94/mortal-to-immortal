@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 14:54
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : die_visual.py
 # @Software : PyCharm
 from die import Die

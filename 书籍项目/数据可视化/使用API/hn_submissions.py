@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/10 17:02
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : hn_submissions.py
 # @Software : PyCharm
 import requests

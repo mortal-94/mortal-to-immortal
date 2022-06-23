@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 18:32
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : country_codes.py
 # @Software : PyCharm
 from pygal_maps_world.i18n import COUNTRIES

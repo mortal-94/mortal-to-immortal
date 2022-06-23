@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 18:35
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : americas.py
 # @Software : PyCharm
 import pygal_maps_world.maps

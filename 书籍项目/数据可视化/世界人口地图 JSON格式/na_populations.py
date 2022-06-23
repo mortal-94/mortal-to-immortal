@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 18:43
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : na_populations.py
 # @Software : PyCharm
 import pygal_maps_world.maps

@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 20:55
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : python_repos.py
 # @Software : PyCharm
 import requests

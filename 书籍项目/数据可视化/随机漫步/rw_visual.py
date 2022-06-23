@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 13:52
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : rw_visual.py
 # @Software : PyCharm
 import matplotlib.pyplot as plt

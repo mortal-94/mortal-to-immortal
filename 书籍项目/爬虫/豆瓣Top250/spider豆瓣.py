@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/6/2 20:54
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : spider豆瓣.py
 # @Software : PyCharm
 import re

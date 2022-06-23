@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 14:46
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : die.py
 # @Software : PyCharm
 from random import randint

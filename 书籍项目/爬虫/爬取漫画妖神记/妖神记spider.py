@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/6/3 18:54
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : 妖神记spider.py
 # @Software : PyCharm
 import requests

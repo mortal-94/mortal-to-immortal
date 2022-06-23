@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/16 13:22
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : 求解无向图的哈密顿回路程序5.py
 # @Software : PyCharm
 """

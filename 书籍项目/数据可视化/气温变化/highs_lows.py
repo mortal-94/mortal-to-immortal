@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 15:36
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : highs_lows.py
 # @Software : PyCharm
 import csv

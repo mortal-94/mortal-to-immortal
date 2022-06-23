@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/10 16:40
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : bar_desciptions.py
 # @Software : PyCharm
 import pygal

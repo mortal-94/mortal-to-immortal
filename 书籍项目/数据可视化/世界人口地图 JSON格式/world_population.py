@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 17:14
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : world_population.py
 # @Software : PyCharm
 import json

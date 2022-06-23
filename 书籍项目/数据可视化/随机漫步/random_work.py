@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2022/5/8 13:35
-# @Author : 林悦宁
+# @Author : mortallyn
 # @File : random_work.py
 # @Software : PyCharm
 from random import choice
