@@ -1,5 +1,6 @@
 // 最大子列和问题
 #include <iostream>
+#include <stdlib.h>
 #include <time.h>
 using namespace std;
 #define MAXX 1e6  //运行次数

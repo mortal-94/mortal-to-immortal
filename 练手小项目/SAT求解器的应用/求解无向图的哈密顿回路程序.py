@@ -50,7 +50,7 @@ import numpy as np
 from time import time
 
 
-def require():
+def makeCNF():
     """
     满足上面列要求并把对应的简单析取式组成列表添加进CNF中
     :return: 无
@@ -104,7 +104,7 @@ for _ in range(m):
 
 start = time()  # 开始时间
 """实现要求"""
-require()
+makeCNF()
 """实现要求"""
 
 """SAT求解"""
